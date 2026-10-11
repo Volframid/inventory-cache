@@ -1,0 +1,9 @@
+{
+  "enabled": true,
+  "measure": false,
+  "maxCacheBytes": 8388608,
+  "maxListBytes": 2097152,
+  "maxEntries": 128,
+  "maxChunksPerList": 128,
+  "partialTimeoutMs": 5000
+}

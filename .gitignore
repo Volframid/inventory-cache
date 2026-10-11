@@ -1,0 +1,4 @@
+LOCAL_UPDATES.md
+config.json.tmp
+config.json.invalid-*.bak
+module.config.json

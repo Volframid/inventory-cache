@@ -1,0 +1,11 @@
+{
+  "name": "inventory-cache",
+  "author": "CEM",
+  "version": "1.0.1",
+  "description": "Reduce duplicate client inventory updates while preserving changed and requested lists.",
+  "disableAutoUpdate": false,
+  "options": { "cliName": "Inventory Cache", "guiName": "Inventory Cache" },
+  "dependencies": { "command": "https://raw.githubusercontent.com/tera-private-toolbox/command/master/module.json" },
+  "servers": ["https://raw.githubusercontent.com/Volframid/inventory-cache/main/"],
+  "supportUrl": "https://github.com/Volframid/inventory-cache/issues"
+}
