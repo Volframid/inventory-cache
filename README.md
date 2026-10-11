@@ -2,7 +2,7 @@
 
 TERA Toolbox module. Author: CEM.
 
-Reduces repeated inventory and equipment updates sent to the game client. Works for every class and does not depend on a class module. It sends no skill, movement or server packets.
+Reduces repeated inventory and equipment updates sent to the game client. It sends no skill, movement or server packets.
 
 Only byte-identical, unsolicited lists already delivered to the client are filtered. Changes to items, rolls, equipment, money or pocket count pass through. Opening inventory or requesting a list always passes through.
 
